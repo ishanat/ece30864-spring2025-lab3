@@ -1,1 +1,3 @@
-
+a) 
+Pros: Teams can deliver working software frequently throughout the project, not just at the end. Teams can break a poject down into several stages.
+Cons: It takes more time and commitment because all people involved, including the various teams and clients must collaborate and be on the same page. The timeline of a project is less predictable because Agile is structured to be flexible.
