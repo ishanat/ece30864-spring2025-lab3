@@ -4,3 +4,7 @@ Cons: It takes more time and commitment because all people involved, including t
 b)
 Scrum Master: The scrum master is resonsible for all scrum related tasks. They are in charge of JIRA tooling, facilitating sprints and meetings, and leading standups.
 Product Owner: The product owner sets the direction for the team, handles release management and stakeholder management.
+c)
+Sprint Planning Meeting: Determine what to complete in the upcoming sprint, Move stories in sprint scope from backlog to current sprint.
+Daily Scrum/Standup Meeting: Short meeting every day of sprint, Team members discuss work completed, work plan for the day and any blockers
+Sprint Retrospective Meeting: Discuss work completed and move inclomplete work to backlog, close sprint
